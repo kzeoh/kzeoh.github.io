@@ -13,6 +13,8 @@
 <meta property="og:url" content="/404.html" />
 
 
+		<meta itemprop="name" content="404 Page not found">
+<meta itemprop="description" content="일상 및 기술 블로그">
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
@@ -32,11 +34,26 @@
 		<a class="logo__link" href="/" title="개발자 항해일지" rel="home">
 			<div class="logo__item logo__text">
 					<div class="logo__title">개발자 항해일지</div>
-					
+					<div class="logo__tagline">[Kwonje&#39;s Blog]</div>
 				</div>
 		</a>
 	</div>
-		<div class="divider"></div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/post/draft/">
+				
+				<span class="menu__text">Example article title</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
 	</div>
 </header>
 		<div class="wrapper flex">
@@ -51,7 +68,7 @@
 
 			</div>
 			
-<aside class="sidebar sidebar--left"><div class="widget-search widget">
+<aside class="sidebar"><div class="widget-search widget">
 	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
 		<label>
 			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q" aria-label="SEARCH...">
@@ -60,32 +77,46 @@
 		<input type="hidden" name="sitesearch" value="/" />
 	</form>
 </div>
-<div class="widget-recent widget">
-	<h4 class="widget__title">Recent Posts</h4>
-	<div class="widget__content">
-		<ul class="widget__list">
-			<li class="widget__item"><a class="widget__link" href="/post/test/">My Bio</a></li>
-		</ul>
-	</div>
-</div>
 <div class="widget-categories widget">
 	<h4 class="widget__title">Categories</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
 			<li class="widget__item">
-				<a class="widget__link" href="/categories/personal/">Personal</a>
+				<a class="widget__link" href="/categories/etc/">ETC</a>
 			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/test/">test</a>
+			</li>
+			<li class="widget__item">
+				<a class="widget__link" href="/categories/whoami/">WhoAmI</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/test/">Bio (RESUME)</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/start/">시작하기 앞서</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/draft/">Example article title</a></li>
 		</ul>
 	</div>
 </div>
 <div class="widget-taglist widget">
 	<h4 class="widget__title">Tags</h4>
 	<div class="widget__content">
+		<a class="widget-taglist__link widget__link btn" href="/tags/another-test/" title="Another test">Another test</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/bio/" title="Bio">Bio</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/blog-management/" title="Blog Management">Blog Management</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cv/" title="CV">CV</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/education/" title="Education">Education</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/experience/" title="Experience">Experience</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/keep-updating/" title="Keep Updating">Keep Updating</a>
 		<a class="widget-taglist__link widget__link btn" href="/tags/paper/" title="Paper">Paper</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/project/" title="Project">Project</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/resume/" title="RESUME">RESUME</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/test/" title="Test">Test</a>
 	</div>
 </div>
 <div class="widget-social widget">
@@ -125,7 +156,7 @@
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
-			&copy; 2020 개발자 항해일지.
+			&copy; 2020 Kwonje Oh.
 			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
 		</div>
 	</div>
