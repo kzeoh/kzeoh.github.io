@@ -21,20 +21,11 @@
     </item>
     
     <item>
-      <title>WhoAmI</title>
-      <link>/categories/whoami/</link>
+      <title>Resume</title>
+      <link>/categories/resume/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/whoami/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/categories/test/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/test/</guid>
+      <guid>/categories/resume/</guid>
       <description></description>
     </item>
     

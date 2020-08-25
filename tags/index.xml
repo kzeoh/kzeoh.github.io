@@ -92,23 +92,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Another test</title>
-      <link>/tags/another-test/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/another-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>/tags/test/</link>
-      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/test/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
