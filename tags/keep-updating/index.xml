@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keep Updating on Kwonje&#39;s Blog</title>
+    <title>Keep Updating on 개발자 항해일지</title>
     <link>/tags/keep-updating/</link>
-    <description>Recent content in Keep Updating on Kwonje&#39;s Blog</description>
+    <description>Recent content in Keep Updating on 개발자 항해일지</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/keep-updating/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>My Bio</title>
       <link>/post/test/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/test/</guid>
       <description></description>
