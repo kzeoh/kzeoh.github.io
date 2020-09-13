@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>제오의 개발 블로그</title>
-    <link>/</link>
+    <link>https://kzeoh.github.io/</link>
     <description>Recent content on 제오의 개발 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -13,7 +13,7 @@
     
     <item>
       <title>네이버 신입 개발자 채용 후기</title>
-      <link>/post/naver_epilogue/</link>
+      <link>https://kzeoh.github.io/post/naver_epilogue/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/naver_epilogue/</guid>
@@ -23,7 +23,7 @@
     
     <item>
       <title>시작하기 앞서</title>
-      <link>/post/start/</link>
+      <link>https://kzeoh.github.io/post/start/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/start/</guid>
