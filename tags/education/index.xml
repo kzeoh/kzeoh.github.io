@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on Kwonje&#39;s Blog</title>
+    <title>Education on 제오의 개발 블로그</title>
     <link>/tags/education/</link>
-    <description>Recent content in Education on Kwonje&#39;s Blog</description>
+    <description>Recent content in Education on 제오의 개발 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Bio</title>
-      <link>/post/test/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <title>About Me</title>
+      <link>/post/me/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/test/</guid>
-      <description></description>
+      <guid>/post/me/</guid>
+      <description> 한글 ver. English ver.  이력서 Education 성균관대학교 소프트웨어학과 석사학위, 2019.03~2020.08  Relevant Coursework: 인공지능특론, 분산시스템특론, 이동컴퓨팅, 모바일시스템디자인특론, 데이터베이스특론, 운영체제설계론  성균관대학교 소프트웨어학과 학사학위, 2013.03~2019.02  Relevant Coursework: 자료구조, 시스템프로그램, 프로그래밍원리, 오토마타, 컴퓨터구조, 운영체제, 프로그래밍언어, 데이터베이스, 컴퓨터네트워크, 컴파일러설계, 웹프로그래밍, 논리회로, 알고리즘개론  SKill Project Experience Activity Awards &amp;amp; Scholarship Certificate Resume Expereince [Naver Corp] 2020.09 ~ current [Distributed Computing Lab], SungKyunKwan University 2018.03 ~ 2020.08 Master degree andidate researcher  Container  Education  Skill  Project  Activity  Awards &amp;amp; Scholarship &amp;amp; Certificate  </description>
+    </item>
+    
+    <item>
+      <title>시작하기 앞서</title>
+      <link>/post/start/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/start/</guid>
+      <description>이 블로그의 용도   개발자와 관련된 업무 및 공부 포스팅 필요하다면 일상 및 취미생활에 관한 포스팅 Keep Updating&amp;hellip;(논문)  </description>
     </item>
     
   </channel>

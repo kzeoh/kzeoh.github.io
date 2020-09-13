@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ETC on 제오의 개발 블로그</title>
+    <link>/categories/etc/</link>
+    <description>Recent content in ETC on 제오의 개발 블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/etc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>시작하기 앞서</title>
+      <link>/post/start/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/start/</guid>
+      <description>이 블로그의 용도   개발자와 관련된 업무 및 공부 포스팅 필요하다면 일상 및 취미생활에 관한 포스팅 Keep Updating&amp;hellip;(논문)  </description>
+    </item>
+    
+  </channel>
+</rss>
