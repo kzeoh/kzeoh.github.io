@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>채용 on 제오의 개발 블로그</title>
+    <link>/tags/%EC%B1%84%EC%9A%A9/</link>
+    <description>Recent content in 채용 on 제오의 개발 블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%EC%B1%84%EC%9A%A9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>네이버 신입 개발자 채용 후기</title>
+      <link>/post/naver_epilogue/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/naver_epilogue/</guid>
+      <description>지원 공고 수시 채용으로 올라온 많은 공고들 중 제가 추구하는 가치관에 알맞는 업무를 하는 곳이며 하는 일이 매우 매력적이라 느껴진 곳에 지원을 했습니다.
+그리고 사실 네이버 이외에 회사에서 모집하는 공고를 살펴 봤을 때는 지원 자격 요건상 안맞다고 생각하는 부분들도 상당히 많았습니다.
+그래서 저는 제가 지금까지 배워왔던 내용을 잘 활용할 수 있고 제가 관심있어 하는 분야의 일을 하는 곳이 해당 공고에서만 모집해서 과감히 다른 곳은 보지 않고 지원했습니다. 채용 프로세스는 서류 -&amp;gt; 코딩테스트 -&amp;gt; 1차 면접 -&amp;gt; 인성검사 -&amp;gt; 2차면접 -&amp;gt; 최종합격으로 진행됐습니다.</description>
+    </item>
+    
+  </channel>
+</rss>
