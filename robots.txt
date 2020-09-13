@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://kzeoh.github.io/sitemap.xml
+
