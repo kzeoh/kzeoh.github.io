@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Test on Kzeoh Blog</title>
-    <link>https://kzeoh.github.io/tags/test/</link>
-    <description>Recent content in Test on Kzeoh Blog</description>
+    <title>Test on Kzeoh 블로그</title>
+    <link>https://kzeoh.io/tags/test/</link>
+    <description>Recent content in Test on Kzeoh 블로그</description>
     <image>
-      <url>https://kzeoh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kzeoh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://kzeoh.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kzeoh.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
     <copyright>Kwonje Oh</copyright>
-    <lastBuildDate>Fri, 10 Jun 2022 23:05:39 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 23:05:39 +0900</lastBuildDate><atom:link href="https://kzeoh.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>첫 포스트</title>
-      <link>https://kzeoh.github.io/posts/my-first-post/</link>
+      <link>https://kzeoh.io/posts/my-first-post/</link>
       <pubDate>Fri, 10 Jun 2022 23:05:39 +0900</pubDate>
       
-      <guid>https://kzeoh.github.io/posts/my-first-post/</guid>
+      <guid>https://kzeoh.io/posts/my-first-post/</guid>
       <description>Example post description</description>
     </item>
     
