@@ -10,22 +10,85 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Kzeoh</copyright>
-    <lastBuildDate>Fri, 10 Jun 2022 23:05:39 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jun 2022 23:58:09 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>테스트</title>
-      <link>https://kzeoh.github.io/tags/%ED%85%8C%EC%8A%A4%ED%8A%B8/</link>
-      <pubDate>Fri, 10 Jun 2022 23:05:39 +0900</pubDate>
+      <title>네이버 면접</title>
+      <link>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A9%B4%EC%A0%91/</link>
+      <pubDate>Mon, 20 Jun 2022 23:58:09 +0900</pubDate>
       
-      <guid>https://kzeoh.github.io/tags/%ED%85%8C%EC%8A%A4%ED%8A%B8/</guid>
+      <guid>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A9%B4%EC%A0%91/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>테스트2</title>
-      <link>https://kzeoh.github.io/tags/%ED%85%8C%EC%8A%A4%ED%8A%B82/</link>
+      <title>네이버 채용</title>
+      <link>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%B1%84%EC%9A%A9/</link>
+      <pubDate>Mon, 20 Jun 2022 23:58:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%B1%84%EC%9A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>네이버 채용 후기</title>
+      <link>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%B1%84%EC%9A%A9-%ED%9B%84%EA%B8%B0/</link>
+      <pubDate>Mon, 20 Jun 2022 23:58:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%B1%84%EC%9A%A9-%ED%9B%84%EA%B8%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>네이버 코딩테스트</title>
+      <link>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/</link>
+      <pubDate>Mon, 20 Jun 2022 23:58:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>서류</title>
+      <link>https://kzeoh.github.io/tags/%EC%84%9C%EB%A5%98/</link>
+      <pubDate>Mon, 20 Jun 2022 23:58:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/%EC%84%9C%EB%A5%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>코테</title>
+      <link>https://kzeoh.github.io/tags/%EC%BD%94%ED%85%8C/</link>
+      <pubDate>Mon, 20 Jun 2022 23:58:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/%EC%BD%94%ED%85%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://kzeoh.github.io/tags/blog/</link>
       <pubDate>Fri, 10 Jun 2022 23:05:39 +0900</pubDate>
       
-      <guid>https://kzeoh.github.io/tags/%ED%85%8C%EC%8A%A4%ED%8A%B82/</guid>
+      <guid>https://kzeoh.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github.io</title>
+      <link>https://kzeoh.github.io/tags/github.io/</link>
+      <pubDate>Fri, 10 Jun 2022 23:05:39 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://kzeoh.github.io/tags/hugo/</link>
+      <pubDate>Fri, 10 Jun 2022 23:05:39 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     

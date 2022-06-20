@@ -12,20 +12,29 @@
     <copyright>Kzeoh</copyright>
     <lastBuildDate>Sat, 18 Jun 2022 23:05:39 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Another test</title>
-      <link>https://kzeoh.github.io/en/tags/another-test/</link>
+      <title>blog</title>
+      <link>https://kzeoh.github.io/en/tags/blog/</link>
       <pubDate>Sat, 18 Jun 2022 23:05:39 +0900</pubDate>
       
-      <guid>https://kzeoh.github.io/en/tags/another-test/</guid>
+      <guid>https://kzeoh.github.io/en/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://kzeoh.github.io/en/tags/test/</link>
+      <title>github.io</title>
+      <link>https://kzeoh.github.io/en/tags/github.io/</link>
       <pubDate>Sat, 18 Jun 2022 23:05:39 +0900</pubDate>
       
-      <guid>https://kzeoh.github.io/en/tags/test/</guid>
+      <guid>https://kzeoh.github.io/en/tags/github.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://kzeoh.github.io/en/tags/hugo/</link>
+      <pubDate>Sat, 18 Jun 2022 23:05:39 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/en/tags/hugo/</guid>
       <description></description>
     </item>
     

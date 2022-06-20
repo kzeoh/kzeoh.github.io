@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>네이버 면접 on Kzeoh 블로그</title>
+    <link>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A9%B4%EC%A0%91/</link>
+    <description>Recent content in 네이버 면접 on Kzeoh 블로그</description>
+    <image>
+      <url>https://kzeoh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kzeoh.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Kzeoh</copyright>
+    <lastBuildDate>Mon, 20 Jun 2022 23:58:09 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A9%B4%EC%A0%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>네이버 신입 개발직군 채용 후기</title>
+      <link>https://kzeoh.github.io/posts/naver-interview/</link>
+      <pubDate>Mon, 20 Jun 2022 23:58:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/posts/naver-interview/</guid>
+      <description>네이버 개발직군 채용 후기</description>
+    </item>
+    
+  </channel>
+</rss>
