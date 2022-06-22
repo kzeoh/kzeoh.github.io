@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Kzeoh</copyright>
-    <lastBuildDate>Fri, 10 Jun 2022 23:05:39 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 20:35:09 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo로 블로그 만들기</title>
+      <link>https://kzeoh.github.io/posts/make-blog/</link>
+      <pubDate>Wed, 22 Jun 2022 20:35:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/posts/make-blog/</guid>
+      <description>Hugo로 블로그 만들기</description>
+    </item>
+    
     <item>
       <title>블로그 리뉴얼</title>
       <link>https://kzeoh.github.io/posts/my-first-post/</link>

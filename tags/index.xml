@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Kzeoh</copyright>
-    <lastBuildDate>Mon, 20 Jun 2022 23:58:09 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jun 2022 20:35:09 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://kzeoh.github.io/tags/blog/</link>
+      <pubDate>Wed, 22 Jun 2022 20:35:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://kzeoh.github.io/tags/hugo/</link>
+      <pubDate>Wed, 22 Jun 2022 20:35:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>네이버 면접</title>
       <link>https://kzeoh.github.io/tags/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A9%B4%EC%A0%91/</link>
@@ -66,29 +84,11 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://kzeoh.github.io/tags/blog/</link>
-      <pubDate>Fri, 10 Jun 2022 23:05:39 +0900</pubDate>
-      
-      <guid>https://kzeoh.github.io/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>github.io</title>
       <link>https://kzeoh.github.io/tags/github.io/</link>
       <pubDate>Fri, 10 Jun 2022 23:05:39 +0900</pubDate>
       
       <guid>https://kzeoh.github.io/tags/github.io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://kzeoh.github.io/tags/hugo/</link>
-      <pubDate>Fri, 10 Jun 2022 23:05:39 +0900</pubDate>
-      
-      <guid>https://kzeoh.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
