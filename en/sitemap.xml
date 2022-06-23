@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kzeoh.github.io/en/tags/blog/</loc>
-    <lastmod>2022-06-18T23:05:39+09:00</lastmod>
+    <lastmod>2022-06-23T20:01:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -13,6 +13,87 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://kzeoh.github.io/en/tags/blog/"
+                />
+  </url><url>
+    <loc>https://kzeoh.github.io/en/categories/</loc>
+    <lastmod>2022-06-23T20:01:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kzeoh.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kzeoh.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://kzeoh.github.io/en/tags/hugo/</loc>
+    <lastmod>2022-06-23T20:01:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kzeoh.github.io/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kzeoh.github.io/en/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://kzeoh.github.io/en/</loc>
+    <lastmod>2022-06-23T20:01:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kzeoh.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kzeoh.github.io/en/"
+                />
+  </url><url>
+    <loc>https://kzeoh.github.io/en/categories/making-blog/</loc>
+    <lastmod>2022-06-23T20:01:09+09:00</lastmod>
+  </url><url>
+    <loc>https://kzeoh.github.io/en/posts/make-blog/</loc>
+    <lastmod>2022-06-23T20:01:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kzeoh.github.io/posts/make-blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kzeoh.github.io/en/posts/make-blog/"
+                />
+  </url><url>
+    <loc>https://kzeoh.github.io/en/posts/</loc>
+    <lastmod>2022-06-23T20:01:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kzeoh.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kzeoh.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://kzeoh.github.io/en/tags/</loc>
+    <lastmod>2022-06-23T20:01:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://kzeoh.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kzeoh.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://kzeoh.github.io/en/posts/my-first-post/</loc>
@@ -28,19 +109,6 @@
                 href="https://kzeoh.github.io/en/posts/my-first-post/"
                 />
   </url><url>
-    <loc>https://kzeoh.github.io/en/categories/</loc>
-    <lastmod>2022-06-18T23:05:39+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://kzeoh.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kzeoh.github.io/en/categories/"
-                />
-  </url><url>
     <loc>https://kzeoh.github.io/en/tags/github.io/</loc>
     <lastmod>2022-06-18T23:05:39+09:00</lastmod>
     <xhtml:link
@@ -52,61 +120,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://kzeoh.github.io/en/tags/github.io/"
-                />
-  </url><url>
-    <loc>https://kzeoh.github.io/en/tags/hugo/</loc>
-    <lastmod>2022-06-18T23:05:39+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://kzeoh.github.io/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kzeoh.github.io/en/tags/hugo/"
-                />
-  </url><url>
-    <loc>https://kzeoh.github.io/en/</loc>
-    <lastmod>2022-06-18T23:05:39+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://kzeoh.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kzeoh.github.io/en/"
-                />
-  </url><url>
-    <loc>https://kzeoh.github.io/en/categories/making-blog/</loc>
-    <lastmod>2022-06-18T23:05:39+09:00</lastmod>
-  </url><url>
-    <loc>https://kzeoh.github.io/en/posts/</loc>
-    <lastmod>2022-06-18T23:05:39+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://kzeoh.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kzeoh.github.io/en/posts/"
-                />
-  </url><url>
-    <loc>https://kzeoh.github.io/en/tags/</loc>
-    <lastmod>2022-06-18T23:05:39+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://kzeoh.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kzeoh.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://kzeoh.github.io/en/archives/</loc>

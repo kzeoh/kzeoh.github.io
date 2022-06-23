@@ -10,13 +10,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Kzeoh</copyright>
-    <lastBuildDate>Sat, 18 Jun 2022 23:05:39 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 20:01:09 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
       <link>https://kzeoh.github.io/en/tags/blog/</link>
-      <pubDate>Sat, 18 Jun 2022 23:05:39 +0900</pubDate>
+      <pubDate>Thu, 23 Jun 2022 20:01:09 +0900</pubDate>
       
       <guid>https://kzeoh.github.io/en/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://kzeoh.github.io/en/tags/hugo/</link>
+      <pubDate>Thu, 23 Jun 2022 20:01:09 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/en/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Sat, 18 Jun 2022 23:05:39 +0900</pubDate>
       
       <guid>https://kzeoh.github.io/en/tags/github.io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>https://kzeoh.github.io/en/tags/hugo/</link>
-      <pubDate>Sat, 18 Jun 2022 23:05:39 +0900</pubDate>
-      
-      <guid>https://kzeoh.github.io/en/tags/hugo/</guid>
       <description></description>
     </item>
     
