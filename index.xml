@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Kzeoh</copyright>
-    <lastBuildDate>Sun, 26 Jun 2022 22:49:04 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 23:37:02 +0900</lastBuildDate><atom:link href="https://kzeoh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giscus Hugo 블로그에 연결하기</title>
+      <link>https://kzeoh.github.io/posts/make-blog3/</link>
+      <pubDate>Fri, 01 Jul 2022 23:37:02 +0900</pubDate>
+      
+      <guid>https://kzeoh.github.io/posts/make-blog3/</guid>
+      <description>Giscus(댓글 시스템)을 Hugo 기반 블로그에 연결하기</description>
+    </item>
+    
     <item>
       <title>Hugo 블로그를 Github 페이지에 연결하기</title>
       <link>https://kzeoh.github.io/posts/make-blog2/</link>
